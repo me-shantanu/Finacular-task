@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[live run](https://finacular-b0351.web.app/).
 
 ## Available Scripts
 
