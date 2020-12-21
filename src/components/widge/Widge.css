@@ -1,0 +1,29 @@
+.widge{
+    flex: 1.5;
+    border-left:1px solid lightgray;
+    background-color:#f1f1f1;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.widge__header{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    background-color: #3a008b;
+    border-radius: 5px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 10px;
+    justify-content: center;
+    cursor: pointer;
+}
+.widge__header>h5{
+    color: #f6f6f6;
+    margin: 5px;
+    font-size: 15px;
+}
+.widge__cards{
+    margin-top: 50px;
+    
+}

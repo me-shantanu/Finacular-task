@@ -1,0 +1,32 @@
+.widgecard{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+    margin: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    align-items: center;
+}
+.widgecard>img{
+    width: 180px;
+    height: 180px;
+    object-fit: contain;
+}
+.widgecard >p{
+    font-size: 13px;
+    color: #292929;
+    margin: 5px;
+    text-align: center;
+}
+.widgecard>h4{
+    padding: 5px;
+    background-color: #3a008b;
+    color: #f6f6f6;
+    border-radius: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+    cursor: pointer;
+    font-size: 15px;
+}
